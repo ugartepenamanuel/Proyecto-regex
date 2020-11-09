@@ -1,6 +1,6 @@
 # $regex
 
-### una nueva colección que no hayas usado antes: ordenadores, personas, música, películas, deportes, libros, ciudades, obras arte, países, enfermedades, animales, plantas
+Vamos hacer una nueva colección que no hayas usado antes: ordenadores, personas, música, películas, deportes, libros, ciudades, obras arte, países, enfermedades, animales, plantas
 
 Que tenga campos de  distinto tipo: cadenas de caracteres, números, tipo documentos, arrays...
 
